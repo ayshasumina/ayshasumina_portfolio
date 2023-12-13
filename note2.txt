@@ -1,0 +1,26 @@
+<nav> to create navigation bar5
+
+display:flex - side by side
+
+psuedo class 
+it is a keyword and to a selecter. specifies a special state of a element
+
+types :-
+   hover state
+
+
+to create sections -- <section>
+
+display inline- block -- it repects both bottom,margin and paddings
+
+desendant selecter - parent_child
+
+Grid class
+
+display grid - 
+
+1fr (frame) = 225px
+1 rem = 16px
+
+
+object postn property used to specify how a image or video should be positioned with X and Y cordinates
